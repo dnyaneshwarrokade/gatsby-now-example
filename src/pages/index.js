@@ -19,15 +19,7 @@ function Index() {
       </Helmet>
       <h1>Gatsby + Node.js (TypeScript) API</h1>
       <h2>
-        Deployed with{' '}
-        <a
-          href="https://zeit.co/docs"
-          target="_blank"
-          rel="noreferrer noopener"
-        >
-          ZEIT Now
-        </a>
-        !
+        Deployment test
       </h2>
       <p>
         <a
