@@ -41,3 +41,6 @@ fetchFilesFromS3()
   .catch((error) => {
     console.error('Error:', error);
   });
+
+// unit test cases for fetchFilesFromS3 function
+
